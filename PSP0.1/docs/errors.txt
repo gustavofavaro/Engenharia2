@@ -1,0 +1,4 @@
+* problema de ambiente: compilador nao reconhece headers
+* nomes de variaveis
+* erros de tipagem entre funções e suas chamadas
+* seg fault na execução

@@ -1,0 +1,5 @@
+* conta todas as linhas que nao possua espaco vazio
+* pilha pra deteccao de chaves e contagem de linhas dentro de espacos abertos
+
+2:40 -> 3:40 development
+3:40 -> 4:20 compiling
